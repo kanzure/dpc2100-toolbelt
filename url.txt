@@ -1,0 +1,14 @@
+http://192.168.100.1/
+http://192.168.100.1/webstar.gif
+http://192.168.100.1/system.asp
+http://192.168.100.1/signal.asp
+http://192.168.100.1/status.asp
+http://192.168.100.1/log.asp
+http://192.168.100.1/gscan.asp
+http://192.168.100.1/reset.asp
+http://192.168.100.1/goform/system
+http://192.168.100.1/goform/gscan
+http://192.168.100.1/goform/_aslvl
+http://192.168.100.1/goform/_swdld
+http://192.168.100.10/
+http://haxorware.com/

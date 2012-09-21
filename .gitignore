@@ -1,0 +1,9 @@
+# precompiled python files
+*.pyc
+
+# editor droppings
+.*.sw*
+.*~
+
+# where i investigate javascript and crap
+other/
